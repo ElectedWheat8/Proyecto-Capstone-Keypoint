@@ -38,14 +38,11 @@ Este proyecto aborda la ineficiencia en la gestión y reserva de espacios (salas
 
 ## Desafío inicial
 
-El desafío consiste en digitalizar y automatizar el registro y reserva de espacios en el Hub Providencia, eliminando la dependencia actual del correo electrónico. 
-**Lo que sabemos:** El proceso de hoy es 100% manual, engorroso, genera sobrecarga en la administración y no permite mantener un historial claro de uso. 
-**Lo que todavía no sabemos:** El volumen exacto de solicitudes semanales que procesan y el tiempo real que pierden respondiendo esos correos (datos que levantaremos en terreno). 
-**Supuestos a comprobar:** Suponemos que los usuarios (emprendedores y makers) adoptarán fácilmente una plataforma web en lugar de mandar correos, y que un sistema automatizado eliminará por completo los choques de horarios en los laboratorios.
+El desafío consiste en digitalizar y automatizar el registro y reserva de espacios en el Hub Providencia, eliminando la dependencia actual del correo electrónico. Lo que sabemos: El proceso de hoy es 100% manual, engorroso, genera sobrecarga en la administración y no permite mantener un historial claro de uso. Lo que todavía no sabemos: El volumen exacto de solicitudes semanales que procesan y el tiempo real que pierden respondiendo esos correos (datos que levantaremos en terreno). Supuestos a comprobar: Suponemos que los usuarios (emprendedores y makers) adoptarán fácilmente una plataforma web en lugar de mandar correos, y que un sistema automatizado eliminará por completo los choques de horarios en los laboratorios.
 
 ## Objetivo SMART del equipo
 
-[Escriban un objetivo específico, medible, alcanzable, relevante y acotado en el tiempo.]
+Desarrollar un prototipo de plataforma web funcional que digitalice el 100% del flujo de reservas (solicitudes, confirmaciones y registro histórico) de los espacios del Hub Providencia, con el fin de eliminar la gestión manual por correo y generar métricas de uso reales, teniendo como plazo máximo de entrega el 10 de noviembre de 2026.
 
 ## Compromisos individuales
 
@@ -65,8 +62,8 @@ El problema afecta directamente a dos grupos: el **equipo de administración del
 
 | Actividad | Responsable(s) | Fecha | Estado |
 |---|---|---|---|
-| [Actividad] | [Nombre] | [dd-mm-aaaa] | Pendiente |
-| [Actividad] | [Nombre] | [dd-mm-aaaa] | Pendiente |
+| Reunirse con la administración y conocer la distribucion del Hub Providencia | César Aravena | 04-09-2026 | Pendiente |
+| Registrar en Github actividades relacionadas con el proyecto | Diego Donoso, Cesar Aravena, Maite Martines, Constanza Martínez y Roderick Grez | 12-12-2026 | En desarrollo |
 
 ## Índice de la bitácora
 
@@ -83,11 +80,19 @@ El problema afecta directamente a dos grupos: el **equipo de administración del
 
 | Fecha | Decisión | Evidencia o criterio utilizado |
 |---|---|---|
-| [dd-mm-aaaa] | [Decisión] | [Evidencia] |
+| 28-08-2026 | Enfocar la primera presentación de avance exclusivamente en el problema y no proponer una solución técnica todavía. | Criterio de la pauta de evaluación del profesor, la cual exige centrarse en la "formulación preliminar del problema" y los usuarios antes de idear soluciones. |
+| 30-08-2026 | Dividir al equipo en dos frentes de trabajo paralelos para las próximas dos semanas (levantamiento en terreno vs. configuración técnica). | Criterio de eficiencia y multidisciplinariedad: aprovechar los perfiles de Industrial para el mapeo del Hub, y los de Informática/Electrónica para preparar el entorno de desarrollo y diagrama digital. |
+
 
 ## Próximo hito
 
-[Indiquen qué debe lograr el equipo a continuación y cómo comprobarán que lo consiguió.]
+El equipo debe concretar la visita a terreno al Hub Providencia. Durante esta salida, el objetivo es doble: por un lado, entrevistar a la administración para levantar las métricas reales del proceso manual actual; y por otro, analizar el lugar para elaborar un diagrama detallado con la distribución física de los espacios (salas, cowork y laboratorios).
+
+**¿Cómo comprobaremos que se consiguió?**
+Este hito se dará por cumplido y validado una vez que se suban al repositorio de GitHub los siguientes entregables:
+1. Un documento con los resultados de la entrevista y las métricas iniciales recolectadas.
+2. El archivo de diseño visual con el diagrama de distribución de los espacios del Hub.
+
 
 ## Uso y licencia
 
