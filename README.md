@@ -1,27 +1,27 @@
-# [Nombre del proyecto]
+# Sistema de reservas Hub Providencia
 
 ## Capstone Intermedio 2026
 
-**Equipo:** [Nombre del equipo]  
-**Desafío:** [Nombre breve del desafío]  
-**Contraparte:** [Organización o actor externo, si corresponde]  
+**Equipo:** Keypoint 
+**Desafío:** Sistema integrado de reserva y uso de espacios 
+**Contraparte:** Hub Providencia 
 **Estado actual:** En desarrollo
 
 ![Foto del equipo](imagenes/S01/foto-equipo.jpg)
 
 ## Descripción
 
-[Expliquen en un párrafo qué problema están abordando, para quién y en qué contexto.]
+Este proyecto aborda la ineficiencia en la gestión y reserva de espacios (salas, cowork y laboratorios) en el Hub Providencia. Actualmente, el control de la demanda depende de procesos manuales y múltiples canales, como el correo electrónico, lo que genera sobrecarga en la administración, falta de historial consolidado y fricción para los usuarios. El objetivo es digitalizar y automatizar el ciclo de reservas, reduciendo tareas manuales y generando métricas de uso reales para apoyar la toma de decisiones estratégicas de la Municipalidad.
 
 ## Equipo
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
+| César Aravena | Ingeniería Civil industrial | [Rol] | cesaraqUM |
+| Constanza martinez | Ingeniería Civil industrial | [Rol] | connie-martinez-boop |
+| Diego Donoso | Ingeniería Civil Electrónica | [Rol] | ElectedWheat8 |
+| roderick grez | Ingeniería Civil en Computación e Informática | [Rol] | goderickgrez-um |
+| Maite Martínez | Ingeniería Civil industrial | [Rol] | maitemartinezz |
 
 ## Valores del equipo
 
