@@ -56,7 +56,7 @@ Desarrollar un prototipo de plataforma web funcional que digitalice el 100% del 
 
 ## Usuarios y contexto
 
-El problema afecta directamente a dos grupos: el **equipo de administración del Hub Providencia** y los **usuarios finales** (emprendedores, ciudadanos y makers). Ocurre en las instalaciones del Hub, específicamente al intentar gestionar o reservar espacios físicos como salas de reuniones, áreas de cowork y, de manera más crítica, los laboratorios de prototipado. La evidencia que tenemos hasta ahora, proporcionada en el levantamiento inicial del municipio, indica que las reservas de laboratorios se realizan 100% por correo electrónico, lo que vuelve el proceso engorroso, propenso a topes de horario y genera "ceguera de datos" al no contar con un historial consolidado.
+El problema afecta directamente a dos grupos: el equipo de administración del Hub Providencia y los usuarios finales (emprendedores, ciudadanos y makers). Ocurre en las instalaciones del Hub, específicamente al intentar gestionar o reservar espacios físicos como salas de reuniones, áreas de cowork y, de manera más crítica, los laboratorios de prototipado. La evidencia que tenemos hasta ahora, proporcionada en el levantamiento inicial del municipio, indica que las reservas de laboratorios se realizan 100% por correo electrónico, lo que vuelve el proceso engorroso, propenso a topes de horario y genera "ceguera de datos" al no contar con un historial consolidado.
 
 ## Plan inicial
 
