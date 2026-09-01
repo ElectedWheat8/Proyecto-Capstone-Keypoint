@@ -18,9 +18,9 @@ Este proyecto aborda la ineficiencia en la gestión y reserva de espacios (salas
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
 | César Aravena | Ingeniería Civil industrial | Coordinador y Levantamiento en terreno | cesaraqUM |
-| Constanza martinez | Ingeniería Civil industrial | Diseño de interfaz y Experiencia de usuario | connie-martinez-boop |
+| Constanza Martinez | Ingeniería Civil industrial | Diseño de interfaz y Experiencia de usuario | connie-martinez-boop |
 | Diego Donoso | Ingeniería Civil Electrónica | Documentación y Apoyo en plataforma | ElectedWheat8 |
-| roderick grez | Ingeniería Civil en Computación e Informática | Desarrollo del prototipo web | goderickgrez-um |
+| Roderick Grez | Ingeniería Civil en Computación e Informática | Desarrollo del prototipo web | goderickgrez-um |
 | Maite Martínez | Ingeniería Civil industrial | Análisis del proceso actual y Pruebas | maitemartinezz |
 
 ## Valores del equipo
