@@ -51,7 +51,7 @@ Desarrollar un prototipo de plataforma web funcional que digitalice el 100% del 
 | César Aravena | Coordinar y ejecutar la visita a terreno al Hub Providencia durante la primera quincena de septiembre para levantar al menos 3 métricas clave del proceso actual. |
 | Constanza Martinez | Diseñar los wireframes (bocetos) de las 3 vistas principales de la plataforma web (login, calendario, panel) antes de la segunda evaluación. |
 | Diego Donoso | Estructurar la documentación técnica en el repositorio y elaborar las presentaciones de avance para cada hito de evaluación del semestre. |
-| Roderick Grez | Programar el prototipo funcional de reservas (MVP) utilizando herramientas web gratuitas antes de la presentación final del Capstone. |
+| Roderick Grez | Programar el prototipo funcional de reservas antes de la presentación final del Capstone. |
 | Maite Martínez | Diseñar y aplicar un plan de pruebas con al menos 5 casos de uso reales para validar el sistema de reservas antes del cierre del semestre. |
 
 ## Usuarios y contexto
@@ -71,8 +71,9 @@ El problema afecta directamente a dos grupos: el **equipo de administración del
 - [S02 - Levantamiento inicial](bitacora/S02.md)
 - [S03 - Empatizar](bitacora/S03.md)
 
-## Evidencias principales
-
+1 ## Evidencias principales
+Añadir en esta parte la presentacion e información inicial del desafio(pdf qué dio el profe)
+Ver como indexar links para mandar a desde esta parte a otra parte del github
 - [Enlace a una prueba, fotografía, dato o documento]
 - [Enlace a una prueba, fotografía, dato o documento]
 
