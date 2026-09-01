@@ -42,7 +42,7 @@ El desafío consiste en digitalizar y automatizar el registro y reserva de espac
 
 ## Objetivo SMART del equipo
 
-Desarrollar un prototipo de plataforma web funcional que digitalice el 100% del flujo de reservas (solicitudes, confirmaciones y registro histórico) de los espacios del Hub Providencia, con el fin de eliminar la gestión manual por correo y generar métricas de uso reales, teniendo como plazo máximo de entrega el 10 de noviembre de 2026.
+Desarrollar un prototipo de plataforma web funcional que digitalice el 100% del flujo de reservas (solicitudes, confirmaciones y registro histórico) de los espacios del Hub Providencia, con el fin de eliminar la gestión manual por correo y generar métricas de uso reales, teniendo como plazo máximo de entrega el 20 de noviembre de 2026.
 
 ## Compromisos individuales
 
