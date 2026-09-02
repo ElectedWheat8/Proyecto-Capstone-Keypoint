@@ -72,10 +72,8 @@ El problema afecta directamente a dos grupos: el equipo de administración del H
 - [S03 - Empatizar](bitacora/S03.md)
 
 1 ## Evidencias principales
-Añadir en esta parte la presentacion e información inicial del desafio(pdf qué dio el profe)
-Ver como indexar links para mandar a desde esta parte a otra parte del github
-- [Enlace a una prueba, fotografía, dato o documento]
-- [Enlace a una prueba, fotografía, dato o documento]
+<img width="714" height="781" alt="image" src="https://github.com/user-attachments/assets/93d16f50-0f44-4b43-bcbf-29fbfd6f456e" />
+
 
 ## Decisiones relevantes
 
