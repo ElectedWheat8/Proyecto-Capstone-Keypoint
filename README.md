@@ -67,9 +67,9 @@ El problema afecta directamente a dos grupos: el equipo de administración del H
 
 ## Índice de la bitácora
 
-- [S01 - Identidad del equipo y desafío](bitacora/S01.md)
-- [S02 - Levantamiento inicial](bitacora/S02.md)
-- [S03 - Empatizar](bitacora/S03.md)
+- [S01 - Identidad del equipo y desafío](Bitacora/S01.md)
+- [S02 - Levantamiento inicial](Bitacora/S02.md)
+- [S03 - Empatizar](Bitacora/S03.md)
 
 1 ## Evidencias principales
 <img width="714" height="781" alt="image" src="https://github.com/user-attachments/assets/93d16f50-0f44-4b43-bcbf-29fbfd6f456e" />
